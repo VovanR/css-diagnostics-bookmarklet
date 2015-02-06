@@ -1,0 +1,34 @@
+{
+  "name": "css-diagnostics-bookmarklet",
+  "version": "1.0.0",
+  "description": "Fastest html code diagnostics",
+  "homepage": "https://github.com/VovanR/css-diagnostics-bookmarklet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VovanR/css-diagnostics-bookmarklet.git"
+  },
+  "author": {
+    "name": "VovanR",
+    "url": "http://vovanr.com/"
+  },
+  "devDependencies": {
+    "buffer": "",
+    "csso": "",
+    "del": "",
+    "fs": "",
+    "gulp": "",
+    "gulp-concat": "",
+    "gulp-jshint": "",
+    "gulp-replace-task": "",
+    "gulp-uglify": "",
+    "jshint-stylish": "",
+    "map-stream": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/VovanR/css-diagnostics-bookmarklet/issues"
+  }
+}
