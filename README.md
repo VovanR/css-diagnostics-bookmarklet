@@ -1,7 +1,6 @@
-CSS Diagnostics Bookmarklet
-===========================
+# CSS Diagnostics Bookmarklet
 
-Fastest html code diagnostics
+> Fastest html code diagnostics
 
 ![Preview](preview.png)
 
@@ -12,6 +11,9 @@ Copy [bookmarklet code](./dist/bookmarklet.js) to your URL bar
 
 ## Build
 run
-```
+```sh
 gulp
 ```
+
+## License
+MIT © [Vladimir Rodkin](https://github.com/VovanR)
